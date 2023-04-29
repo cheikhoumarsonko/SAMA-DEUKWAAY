@@ -1,0 +1,418 @@
+.titre{
+margin-right: 25px;
+    font: size 20px;
+    margin-top: 20px; 
+    max-width: 1px;
+    height: 2px;
+
+    
+    border-radius: 20px;
+
+}
+body{
+    background-color: white;
+    opacity: 1.5;
+}
+.navbar{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.navbar a {
+    text-decoration: 0;
+    justify-content: space-between;
+    margin: 0 10px;
+    color: rgb(11, 54, 132);
+    font-size: 20px;
+}
+.navbar1{
+    margin-left: -10px;
+    padding-top: 15px;
+  padding-bottom: 50px;
+    background-color: white; 
+    text-align:center ;
+}
+.navbar1 a {
+    text-decoration: 0;
+    justify-content: space-between;
+    margin: 0 15px;
+    color: rgb(11, 54, 132);
+    font-size: 25px;
+}
+
+.produit{ 
+
+float: left;
+margin-left: 100px ;
+margin-bottom: 70px;
+}
+
+.prod{ 
+    position: center;
+   
+    margin: left 150px ;
+    }
+
+
+.test{ 
+    margin-top: 150px;
+    margin-bottom: 50px;
+     
+     
+
+}
+.section{ 
+    width:90%;
+    position: center;
+    height: 1200px;
+     padding: 70px;
+}
+.section1{ 
+    
+    width:90%;
+  background-color: white;
+  position: center;
+    height: 900px;
+     padding: 70px;
+     
+}
+h1{
+    color: cadetblue;
+ font-size: 30px;
+     
+}
+p{
+    color: cadetblue;
+    font-size:  25px;
+     
+}
+h5{
+    float:right;
+    margin-right: 200px;
+    font-size: 15px;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+   
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor :piontcenter;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  
+  }
+  
+  .produit{
+    
+  }
+  .mari p{
+    margin-top: -2%;
+    width: 30%;
+    font-size: 15px;
+    margin-left:200px;
+
+  }
+  .mari h3{
+    margin-left: 50px;
+    font-size:  20px; 
+    margin-top: 3%;
+  }
+  .mari button{
+    margin-left: 10;
+    
+  }
+ 
+.pere{
+  margin-left: 15px;
+  margin-left: -5%;
+  margin-top:-5%;
+  font-size: 15px;
+}
+.porte{
+  display: flex;
+}
+  .produit img{
+    margin-top: 5px;
+    margin-left: 75px;
+    border-radius: 6%;
+    margin-bottom: 5px;
+  }
+  .produit1 img{
+    margin-top: 5px;
+    margin-left: 75px;
+    border-radius: 6%;
+    margin-bottom: 5px;
+  }
+  .produit p{
+font-size: 30px;
+  }
+  .leut{
+    display: flex;
+  }
+  .tata{
+    margin-left:12%;
+  }
+  .tata h3{
+    font-size:  20px;
+    
+  }
+    .tata p{
+      font-size: 15px; 
+    
+  }
+  .toto h3{
+    font-size:20px;
+  
+  }
+  .toto p{
+    font: size 15px;
+
+  }
+  .toto button{
+    margin-top: 12px;
+    
+  }
+  .mere h3{
+    font-size: 20px;
+    margin-top: 5%;
+    margin-left: 100px;
+
+  }
+  .mere p{
+    font-size: 15px;
+    margin-left: 100px;
+    
+  }
+  .mere button{
+    margin-left: 100px
+  }
+
+.mere sat{
+  margin-left: 100px;
+}
+
+  .produit h3{
+    font-size: 20px;
+    margin-left:-5%;
+  }
+  .produit p{
+    margin: left -5%; 
+    font-size: 15px;
+  }
+  .mm{
+    margin-left: 10%;
+  }
+  .gett{
+    margin-left: 7%;
+    text-align: center;
+  }
+  serr{
+    margin-left: 100%;
+  }
+  .teww{
+    display: flex;
+  }
+  .sat{
+    margin-left: 10%;
+  }
+  .test p{
+  font-style: italic;
+  }
+  .test h1{
+    font-style: italic;
+  }
+  .produit4{
+    display: flex;
+  }
+  .yor{
+    margin-top: 14%;
+  }
+
+  .footer{
+  float: left;
+  background-color:rgb(11, 54, 132);
+  height: 325px; 
+  }
+  .footer1{
+    float: left;
+    background-color:rgb(11, 54, 132);
+    height: 325px; 
+    margin-top: 200px;
+    }
+    .footer2{
+      float: left;
+      background-color:rgb(11, 54, 132);
+      height: 325px; 
+      margin-top: 400px;
+      }
+    .class1
+    {
+      
+      background-color:rgb(11, 54, 132);
+      height: 185px; 
+      width: 400px;
+      float: left;
+      margin-left: 150px;
+      padding-top: 15px;
+    }
+    .class2{
+      background-color:rgb(11, 54, 132);
+      height: 200px; 
+      width: 400px;
+      float: left;
+  margin-left: 50px;
+  color: white;
+    }
+    .class3{
+      background-color:rgb(11, 54, 132);
+      height: 200px; 
+      width: 613px;
+      float: right;
+      margin-left: 50px;
+      font-size: 20px;
+    }
+    .navbar2 a {
+      text-decoration: 0;
+      justify-content: space-between;
+      margin: 0 15px;
+      color:white;
+      font-size: 25px;
+  }
+  
+  .produit a {
+    text-decoration: none;
+    
+}
+.ondd{
+  margin-top: -12px;
+  color: white;
+  margin-left: 4px;
+  font-style: italic;
+}
+.werr{
+  margin-top:-17px;
+}
+.serr{
+  color: white;
+  font-style:italic ;
+}
+.ratt{
+  color: white;
+}
+.farr{
+  color: white;
+}
+.insta{
+  float: left;
+  margin-left: 40px;
+}
+
+.face{
+  margin-left: 40px;
+  float: left;
+}
+.general{
+  margin-top: 50px;
+  margin-left: 200px;
+  display: flex;
+
+  
+}
+.out{
+  margin-top: 70px;
+  font-size: xx-large;
+  color: white;
+}
+.omz{
+  margin-left: 230px;
+}
+.you{
+  margin-left: 290px;
+}
+.bob{
+  margin-left: 120px;
+  height: 50px;
+  width: 50px;
+}
+
+
+.pro1{
+  margin-left: 45px;
+  height: 400px;
+  width: 400px;
+  background-color:white;
+}
+.pro2{
+  margin-left: 45px;
+  height: 400px;
+  width: 400px;
+background-color: white;
+}
+.pro3{
+  margin-left: 45px;
+  height: 400px;
+  width: 400px;
+  background-color: white;
+}
+.pro4{
+  margin-left: 150px;
+  height: 400px;
+  width: 400px;
+  background-color: white;
+}
+.pro5{
+  margin-left: 45px;
+  height: 400px;
+  width: 400px;
+  background-color: white;
+}
+.pro6{
+  margin-left: 45px;
+  height: 400px;
+  width: 400px;
+  background-color: white;
+}
+.produit1{
+  float: left;
+  display: flex;
+  height: 400px;
+  width: 1500px;
+  background-color: white;
+  margin-bottom: 50px;
+}
+.produit{
+  display: flex;
+  height: 400px;
+  width: 1380px;
+  background-color: white;
+}
+.img{
+  height: 900px;
+  width: 1500px;
+  background-color: white;
+}
+.img1{
+  height: 900px;
+  width: 1500px;
+  background-color: white;
+}
